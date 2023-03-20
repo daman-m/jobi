@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="wrapper">
-      <h1>YEEEEEEEEEEERRRRRRRRR</h1>
+      <h1>YEEEEEEEEEEERRRRRRRRRiiii</h1>
     </div>
   )
 }
